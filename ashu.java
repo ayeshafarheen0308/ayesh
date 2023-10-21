@@ -2,6 +2,6 @@ class ashu
 {
   Public static void main(String args[])
 {
-  System.outt.println("Good morning");
+  System.out.println("Good morning guys");
 }
 }
